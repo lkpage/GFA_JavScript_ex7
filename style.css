@@ -15,15 +15,13 @@ p {
     width: auto;
     margin-top: 10px;
     margin-bottom: 20px;
-    font-weight: bold;
     display: block;
 }
 
 #button2 {
     height: 30px;
-    width: 90px;
+    width: auto;
     margin-bottom: 20px;
-    font-weight: bold;
     display: block;
 }
 
@@ -31,6 +29,9 @@ p {
     height: 30px;
     width: auto;
     margin-bottom: 20px;
-    font-weight: bold;
     display: block;
+}
+
+legend {
+    margin-bottom: 5px;
 }
